@@ -1,5 +1,5 @@
 
-# npms Extension
+# npms extension
 > A [ulauncher](https://ulauncher.io/) extension
 
 ![screenshot](screenshot.png)
